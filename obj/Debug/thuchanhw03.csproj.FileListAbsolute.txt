@@ -1,0 +1,7 @@
+D:\visual studio\Csharp\thuchanhw03\obj\Debug\thuchanhw03.csproj.AssemblyReference.cache
+D:\visual studio\Csharp\thuchanhw03\obj\Debug\thuchanhw03.csproj.CoreCompileInputs.cache
+D:\visual studio\Csharp\thuchanhw03\bin\Debug\thuchanhw03.exe.config
+D:\visual studio\Csharp\thuchanhw03\bin\Debug\thuchanhw03.exe
+D:\visual studio\Csharp\thuchanhw03\bin\Debug\thuchanhw03.pdb
+D:\visual studio\Csharp\thuchanhw03\obj\Debug\thuchanhw03.exe
+D:\visual studio\Csharp\thuchanhw03\obj\Debug\thuchanhw03.pdb
